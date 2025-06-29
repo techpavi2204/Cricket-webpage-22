@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cricket Fan Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #023e8a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .banner img {
+            width: 100%;
+            height: auto;
+        }
+        .content {
+            padding: 20px;
+        }
+        h2 {
+            color: #023e8a;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        footer {
+            background-color: #023e8a;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>🏏 Cricket Fan Page</h1>
+</header>
+
+<div class="banner">
+    <img src="https://wallpapercave.com/wp/wp1874823.jpg" alt="Cricket Banner">
+</div>
+
+<div class="content">
+    <h2>🏆 Latest Match Result</h2>
+    <p><strong>India vs Australia</strong> | 25th June 2025</p>
+    <p><strong>Result:</strong> India won by 45 runs 🎉</p>
+
+    <h2>🌟 Top Players</h2>
+    <ul>
+        <li>Virat Kohli - 85 runs</li>
+        <li>Jasprit Bumrah - 3 wickets</li>
+        <li>Glenn Maxwell - 60 runs</li>
+    </ul>
+
+    <h2>📖 About Cricket</h2>
+    <p>Cricket is one of the world’s most popular sports, combining skill, strategy, and excitement. 
+    From thrilling T20s to classic Test matches, cricket captures the hearts of fans globally.</p>
+</div>
+
+<footer>
+    &copy; 2025 Cricket Fan Page | Designed by S. Pavithra ❤️
+</footer>
+
+</body>
+</html>
